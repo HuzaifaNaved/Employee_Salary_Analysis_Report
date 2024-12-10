@@ -1,6 +1,6 @@
 # Employee_Salary_Analysis_Report
 Employee Salary Analysis Report
-- Introduction
+- Introduction 
 This report presents an analysis of employee salaries across different job roles, experience levels, and employment types. The dataset contains information on salaries, job titles, experience levels, and more. The analysis aims to provide insights into salary trends, relationships between variables, and potential predictors of salary.
 
 - Exploratory Data Analysis (EDA)
